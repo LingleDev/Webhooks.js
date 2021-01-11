@@ -1,1 +1,1 @@
-![[Discord HookClient](./images/hookclient.svg)]
+![Discord HookClient](./images/hookclient.svg)
