@@ -1,0 +1,21 @@
+{
+  "name": "discord-hookclient",
+  "version": "0.0.1",
+  "description": "A fast & lightweight Node.js wrapper for the Discord Webhook API.",
+  "main": "./src/index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhooks",
+    "discord",
+    "discord.js",
+    "fhgdev"
+  ],
+  "author": "FHGDev",
+  "license": "MIT"
+}
