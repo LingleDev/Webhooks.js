@@ -1,5 +1,5 @@
 {
-  "name": "discord-hookclient",
+  "name": "webhooks.js",
   "version": "0.0.1",
   "description": "A fast & lightweight Node.js wrapper for the Discord Webhook API.",
   "main": "./src/index.js",
