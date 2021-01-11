@@ -1,1 +1,1 @@
-![Discord HookClient](./images/hookclient.svg)
+![Discord HookClient](https://raw.githubusercontent.com/FHGDev/Discord-HookClient-v2/master/images/hookclient.svg?token=AGYWI4PSW4RYWG7OEZPFPRDAAXHAQ)
