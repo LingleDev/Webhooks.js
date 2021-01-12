@@ -1,8 +1,9 @@
 {
   "name": "webhooks.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A fast & lightweight Node.js wrapper for the Discord Webhook API.",
   "main": "./src/index.js",
+  "typings": "./index.d.ts",
   "dependencies": {
     "node-fetch": "^2.6.1"
   },

@@ -98,3 +98,6 @@ hook.send(embed)
 - [Website](https://github.com/FHGDev/Webhooks.js)
 - [Discord Server](https://discord.gg/mXN7ahsg9c)
 - [NPM Package](https://npmjs.com/package/webhooks.js)
+
+## Help
+You can get help in the [Webhooks.js Discord Server](https://discord.gg/F8MDd4qTad) in the #support channel.
