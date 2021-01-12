@@ -8,7 +8,7 @@
         <a href="https://www.npmjs.com/package/webhooks.js">
             <img src="https://img.shields.io/npm/v/webhooks.js.svg" alt="npm">
         </a>
-        <a href="https://www.npmjs.com/package/discord.js">
+        <a href="https://www.npmjs.com/package/webhooks.js">
             <img src="https://img.shields.io/npm/dt/webhooks.js.svg?maxAge=3600" alt="NPM downloads">
         </a>
     </p>

@@ -7,9 +7,14 @@
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
-  "scripts": {
+  "scripts": { 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+
   "keywords": [
     "webhooks",
     "discord",
@@ -18,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FHGDev/Webhooks.js"
+    "url": "git://https://github.com/FHGDev/Webhooks.js"
   },
   "author": "FHGDev",
   "license": "MIT"
