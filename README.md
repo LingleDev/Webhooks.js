@@ -36,6 +36,8 @@ Webhooks.js is a new, lightweight, and fast Node.js wrapper for the [Discord Web
 `npm install webhooks.js --save`
 
 ## Examples
+You can send a raw Webhook params object [Read More](https://discord.com/developers/docs/resources/webhook#execute-webhook-jsonform-params)
+
 ```js
 const hooks = require('webhooks.js')
 const hook = new hooks.Webhook({ id: "your-webhook-id", token: "your-webhook-token" })
@@ -91,6 +93,7 @@ hook.send(embed)
     console.error(err)
 })
 ```
+
 ## Links
 - [Website](https://github.com/FHGDev/Webhooks.js)
 - [Discord Server](https://discord.gg/mXN7ahsg9c)

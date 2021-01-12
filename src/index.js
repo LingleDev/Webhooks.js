@@ -68,5 +68,5 @@ class Webhook {
 
 module.exports = {
     Webhook,
-    RichEmbed
+    RichEmbed,
 }
