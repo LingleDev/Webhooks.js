@@ -92,7 +92,7 @@ class RichEmbed {
     }
 
     setTimestamp(stamp) {
-        if (!stamp) stamp = Date.now()
+        if (!stamp) stamp = new Date(Date.now()).toISOString()
 
         this.body.timestamp = stamp;
 

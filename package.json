@@ -16,6 +16,10 @@
     "discord.js",
     "fhgdev"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FHGDev/Webhooks.js"
+  },
   "author": "FHGDev",
   "license": "MIT"
 }
