@@ -92,4 +92,6 @@ hook.send(embed)
 })
 ```
 ## Links
-- [Website](https://)
+- [Website](https://github.com/FHGDev/Webhooks.js)
+- [Discord Server](https://discord.gg/mXN7ahsg9c)
+- [NPM Package](https://npmjs.com/package/webhooks.js)
