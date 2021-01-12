@@ -71,7 +71,7 @@ hook.send("hello world!")
 
 ```
 
-or you can send a RichEmbed (different from [Discord.js](https://discord.js.org/#/docs/main/stable/class/MessageEmbed) MessageEmbeds)
+or you can send a RichEmbed (different from [Discord.js MessageEmbeds](https://discord.js.org/#/docs/main/stable/class/MessageEmbed))
 
 ```js
 
