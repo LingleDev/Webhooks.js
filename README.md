@@ -1,6 +1,6 @@
 <div align=center>
     <br>
-    <img src="https://raw.githubusercontent.com/FHGDev/Webhooks.js/master/images/hookclient.svg" width=225 height=225 >
+    <img src="https://raw.githubusercontent.com/FHGDev/Webhooks.js/master/images/hookclient.svg" width=512 height=512 >
     <p> 
         <a href="https://discord.gg/h7sVGsBaHP">
             <img src="https://img.shields.io/discord/798252971590025278?color=7289da&logo=discord&logoColor=white" alt="Discord">
